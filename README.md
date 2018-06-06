@@ -6,10 +6,23 @@ So. Github have [gone rogue](https://blogs.microsoft.com/blog/2018/06/04/microso
 So... let's build it? Or have you already started? Fork [this page on github](https://github.com/alexmorley/dgit-web) or using [Beaker Browser](https://beakerbrowser.com/) and add your name below plus answers to any of the questions.
 
 
-**Current Open Source git-hosting solutions...**
+## Current Architecture Proposal
+- Git remote sharing over hyperdrive / dat
+- Core Repository "Portal" on dat (mirrored to http)
 
+## Research
+
+**Current Open Source Git repository browsers**
+- [GitWeb](https://git.kernel.org/pub/scm/git/git.git/tree/gitweb)
+- [Gitiles](https://github.com/google/gitiles)
 
 **What do we want from a code-sharing platform?**
+- Searchability - should be able to search through all repos by tag/name/content
+- ?? Community Input - Portal for bug-reports. Some metric for community approval e.g. how many other people are using this, and what do they think .
+
+**What do we not want?**
+- ??
+
 
 
 **[Your question goes here...]**
