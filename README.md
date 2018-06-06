@@ -10,6 +10,12 @@ So... let's build it? Or have you already started? Fork [this page on github](ht
 - Git remote sharing over hyperdrive / dat
 - Core Repository "Portal" on dat (mirrored to http)
 
+## Work in this area
+- [hyperdb git repo](https://github.com/noffle/hyperdb-git-repo)
+- [hyperdb git remote helper](https://github.com/noffle/git-remote-hypergit)
+- [hypergit](https://github.com/noffle/hypergit)
+- [GitTorrent](https://github.com/cjb/GitTorrent)
+
 ## Research
 
 **Current Open Source Git repository browsers**
